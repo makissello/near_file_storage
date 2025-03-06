@@ -1,1 +1,6 @@
-/target
+/contract/target
+/contract/Cargo.toml
+/test_frontend/node_modules
+/test_frontend/out
+/test_frontend/.next
+/test_frontend/.env.local
