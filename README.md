@@ -43,21 +43,6 @@ yarn dev
 
 The frontend will be available at `http://localhost:3000`
 
-## How to Test Locally?
-
-### Smart Contract Tests
-```bash
-cargo test
-```
-
-### Frontend Tests
-```bash
-cd test_frontend
-npm test
-# or
-yarn test
-```
-
 ## How to Deploy?
 
 ### Smart Contract
